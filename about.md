@@ -12,4 +12,4 @@ permalink: /about/
 
 ### Contact me
 
-[email@domain.com](mailto:897097862@qq.com)
+[897097862@qq.com](mailto:897097862@qq.com)
